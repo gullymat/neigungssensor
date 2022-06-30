@@ -11,6 +11,7 @@ const int pin_BL = 10;
 LiquidCrystal lcd( pin_RS,  pin_EN,  pin_d4,  pin_d5,  pin_d6,  pin_d7);
 
 
+
 int neig; //x
 int kipp; //y
 int limit_neig_gelb = 30;
